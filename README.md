@@ -2,48 +2,40 @@
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
+4. [FAQs](#faqs)
 ### General Info
 ***
-Write down general information about your project. It is a good idea to always put a project status in the readme file. This is where you can add it. 
+Desert Fox is a program that helps you to create your very own BASIC programming language in seconds
 ### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+![Screen Shot - 1](https://github.com/Qrn3/DesertFox/blob/main/Screen%20Shots/screenshot%20(1).png)
+![Screen Shot - 2](https://github.com/Qrn3/DesertFox/blob/main/Screen%20Shots/screenshot%20(2).png)
 ## Technologies
 ***
 A list of technologies used within the project:
-* [Technology name](https://example.com): Version 12.3 
-* [Technology name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
+* [string](https://docs.python.org/3/library/string.html)
+* [os](https://docs.python.org/3/library/os.html)
+* [math](https://docs.python.org/3/library/math.html)
+* Desert Fox is a project that makes BASIC programming languages. 
 ## Installation
 ***
 A little intro about the installation. 
 ```
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
+$ git clone https://github.com/Qrn3/DesertFox.git
+$ cd DesertFox
+$ python3 "Desert Fox.py"
 ```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
-## Collaboration
-***
-Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> Should it encompass several lines?
-> This is how you do it.
+or 
+```
+$ git clone https://github.com/Qrn3/DesertFox.git
+$ cd DesertFox
+$ "Desert Fox.exe"
+```
 ## FAQs
 ***
 A list of frequently asked questions
-1. **This is a question in bold**
-Answer to the first question with _italic words_. 
-2. __Second question in bold__ 
-To answer this question, we use an unordered list:
-* First point
-* Second Point
-* Third point
-3. **Third question in bold**
-Answer to the third question with *italic words*.
-4. **Fourth question in bold**
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
+1. **Will a language that made with this program belong entirely to me?**
+Yes, the result programs that this program will give you will be entirely your own. 
+2. **What about the type of language made with this program?**
+Desert Fox is a project that makes [BASIC](https://en.wikipedia.org/wiki/BASIC) programming languages. 
+3. **How optimized is a programming language made with Desert Fox?**
+Desert Fox is a program written in Python and writes the programming languages it creates in Python. For this reason, you can create sufficiently optimized languages to do what you want, even if it is not fast. 
