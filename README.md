@@ -15,7 +15,7 @@ A list of technologies used within the project:
 * [string](https://docs.python.org/3/library/string.html)
 * [os](https://docs.python.org/3/library/os.html)
 * [math](https://docs.python.org/3/library/math.html)
-* Desert Fox is a project that makes BASIC programming languages. 
+* [art](https://pypi.org/project/art/)
 ## Installation
 ***
 A little intro about the installation. 
